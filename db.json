@@ -1,0 +1,45 @@
+{
+ "users":[
+  {
+     "id":"1",
+     "firstName":"Samwel",
+     "lastName":"Mchomvu",
+     "email":"samwelnm4@gmail.com",
+     "proffesinal":"FrontEnd Engineer",
+     "companyID":"1"
+  },
+  {
+     "id":"2",
+     "firstName":"Alice",
+     "lastName":"Peter",
+     "email":"alice@gmail.com",
+     "proffesinal":"BackEnd Engineer",
+     "companyID":"2"
+  },
+  {
+     "id":"3",
+     "firstName":"Innocent",
+     "lastName":"Junior",
+     "email":"innocent@gmail.com",
+     "proffesinal":"FullStack Developer",
+     "companyID":"1"
+  }
+ ],
+ "companies":[
+  {
+    "id":"1",
+    "name":"NOTTECH Lab",
+    "description":"Professionals are certified by their skills and ability to deliver quality."
+  },
+  {
+    "id":"2",
+    "name":"Apple",
+    "description":"s an American multinational technology company headquartered in Cupertino, California, that designs, develops, and sells consumer electronics, computer software"
+  },
+  {
+    "id":"3",
+    "name":"Microsoft",
+    "description":" is an American multinational technology company with headquarters in Redmond, Washington. It develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services"
+  }
+ ]
+}
